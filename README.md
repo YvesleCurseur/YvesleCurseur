@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YvesleCurseur
+- 👋 Hi, I’m @YvesleCurseur | Fulbert Pognon
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on a apk project
