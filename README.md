@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on a apk project
-- 📫 How to reach me => pognonyvesfulbert@gmail.com
+- 📫 How to reach me => fulbertpognon@gmail.com
 
 <!---
 YvesleCurseur/YvesleCurseur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
